@@ -13,7 +13,7 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 - Manipulação e visualização de dados (Pandas, NumPy)</b>
 - Cloud (AWS)</b>
 - Dashboards & Storytelling (Power BI, Looker)</b>
->>>>>>> 554b15bb614027bb9d2604fd6eeac0b2f75178cf
+
 
 
 ## 🌐 **Meus Contatos**
@@ -26,7 +26,7 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="E-mail">
   </a>
   <a href="https://github.com/marianarouxinol">
-    <img src="https://img.shields.io/badge/-Estrelas-yellow?style=for-the-badge&logo=github" alt="Estrelas">
+    <img src="https://img.shields.io/badge/-Estrelas-yellow?style=for-the-badge&logo=github" alt="Github">
   </a>
 </p>
 
