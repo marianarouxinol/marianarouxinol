@@ -9,9 +9,10 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 
 ## 💡 **Minhas Especialidades**
-🔹 Manipulação e visualização de dados (Pandas, NumPy)\n
-🔹 Cloud (AWS)\n
-🔹 Dashboards & Storytelling (Power BI, Looker)\n
+
+-🔹 Manipulação e visualização de dados (Pandas, NumPy)
+-🔹 Cloud (AWS)
+-🔹 Dashboards & Storytelling (Power BI, Looker)
 
 
 ## 🌐 **Meus Contatos**
