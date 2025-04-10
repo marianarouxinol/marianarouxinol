@@ -14,18 +14,6 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 🔹 Dashboards & Storytelling (Power BI, Looker)
 
 
-
-Ótima ideia, Mariana! Esses botões tornam seu perfil mais interativo e profissional. Você pode adicioná-los ao seu README.md usando Markdown com HTML para personalizar links. Aqui está um modelo com botões parecidos com os da imagem que você enviou:
-
-# Olá, eu sou a Mariana! 👋
-
-📊 **Analytics Engineer | Cientista de Dados | Analista de Dados**  
-📍 **Localização:** Rio de Janeiro, Brasil  
-🚀 **Apaixonada por transformar dados em insights valiosos**  
-
-Atualmente, atuo na área de **dados**, explorando técnicas de **ciência de dados, engenharia de dados e analytics** para transformar informações em decisões estratégicas.  
-Meu perfil aqui no GitHub é dedicado a projetos de análise de dados, machine learning e engenharia de dados. Estou sempre aprendendo e desenvolvendo soluções eficientes para problemas do mundo real.
-
 ## 🌐 **Meus Contatos**
 
 <p align="center">
