@@ -1,7 +1,7 @@
 # Olá, eu sou a Mariana! 👋
 
 🌎 **Localização:** Rio de Janeiro, Brasil  
-💻 **Apaixonada por:** Dados, GitHub e tecnologia  
+💻 **Apaixonada por:** Dados e tecnologia  
 🚀 **Buscando sempre melhorar e compartilhar conhecimento!**  
 
 Bem-vindo ao meu perfil! Aqui você encontrará projetos e contribuições voltadas para dados e IA 
@@ -9,10 +9,9 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 
 ## 💡 **Minhas Especialidades**
-
--🔹 Manipulação e visualização de dados (Pandas, NumPy)
--🔹 Cloud (AWS)
--🔹 Dashboards & Storytelling (Power BI, Looker)
+🔹 Manipulação e visualização de dados (Pandas, NumPy)
+🔹 Cloud (AWS)
+🔹 Dashboards & Storytelling (Power BI, Looker)
 
 
 ## 🌐 **Meus Contatos**
