@@ -9,9 +9,9 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 
 ## 💡 **Minhas Especialidades**
-🔹 Manipulação e visualização de dados (Pandas, NumPy)
-🔹 Cloud (AWS)
-🔹 Dashboards & Storytelling (Power BI, Looker)
+🔹 Manipulação e visualização de dados (Pandas, NumPy)</b>
+🔹 Cloud (AWS)</b>
+🔹 Dashboards & Storytelling (Power BI, Looker)</b>
 
 
 ## 🌐 **Meus Contatos**
@@ -19,7 +19,7 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 <p align="center">
   <a href="https://www.linkedin.com/in/marianarouxinol/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  </a> 
   <a href="mariana.rouxinol@email.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="E-mail">
   </a>
