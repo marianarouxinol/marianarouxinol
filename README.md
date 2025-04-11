@@ -40,23 +40,6 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
   <img src="https://github-readme-stats.vercel.app/api?username=marianarouxinol&show_icons=true&theme=dracula" alt="GitHub Stats">
 </p>
 
----
-
-## 🚀 **Tecnologias**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianarouxinol&layout=compact&theme=dracula" alt="Linguagens">
-</p>
-
----
-
-## 🏆 **Conquistas**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marianarouxinol&theme=darkhub" alt="Troféus">
-</p>
-
-
-
-
 
 
 <p align="center">
