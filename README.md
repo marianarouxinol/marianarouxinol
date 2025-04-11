@@ -15,21 +15,27 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 - Dashboards & Storytelling (Power BI, Looker)</b>
 
 ## 🛠 **Linguagens e Tecnologias**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,python,lookerstudio,mysql,sqlserver" alt="Linguagens e Tecnologias">
-</p>
 
 ## 🛠 **Linguagens e Tecnologias**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,mssql,looker,powerbi" alt="Linguagens e Tecnologias">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
 </p>
 
 ---
 
 ## 🎓 **Certificações**
 <p align="center">
-  <img src="https://images.credly.com/images/f0d5b93b-46e1-4fa6-8ae5-4fb86c099c96/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner">
+  <img src="https://d1.awsstatic.com/training-and-certification/Cert-Badges/AWS-Certified-Cloud-Practitioner_badge.6b5667b8fb8b1c1aa9342b1653cfad5c1981ce45.png" alt="AWS Cloud Practitioner" width="150">
 </p>
+
+🔗 [Ver certificação oficial](https://www.credly.com/badges/6b5667b8fb8b1c1aa9342b1653cfad5c1981ce45/public_url)
+
+
+
 ## 🌐 **Meus Contatos**
 
 <p align="center">
