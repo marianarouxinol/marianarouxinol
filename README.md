@@ -29,11 +29,12 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 ## 🎓 **Certificações**
 <p align="center">
-  <img src="https://d1.awsstatic.com/training-and-certification/Cert-Badges/AWS-Certified-Cloud-Practitioner_badge.6b5667b8fb8b1c1aa9342b1653cfad5c1981ce45.png" alt="AWS Cloud Practitioner" width="150">
+  <img src="./certificação.png" alt="AWS Cloud Practitioner" width="150">
+
+🔗 [Ver certificação oficial](https://www.credly.com/badges/f07efa9e-79e0-4684-b3f8-314417a66983/linked_in_profile)
+
+
 </p>
-
-🔗 [Ver certificação oficial](https://www.credly.com/badges/6b5667b8fb8b1c1aa9342b1653cfad5c1981ce45/public_url)
-
 
 
 ## 🌐 **Meus Contatos**
