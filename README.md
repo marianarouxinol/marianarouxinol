@@ -30,6 +30,31 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 </p>
 
 
+
+## 📊 **Estatísticas do GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" alt="GitHub Stats">
+</p>
+
+---
+
+## 🚀 **Tecnologias**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula" alt="Linguagens">
+</p>
+
+---
+
+## 🏆 **Conquistas**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=darkhub" alt="Troféus">
+</p>
+
+
+
+
+
+
 <p align="center">
   <strong>Vamos construir juntos? 🚀😊</strong>
 </p>
