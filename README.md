@@ -16,7 +16,7 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 ## 🛠 **Linguagens e Tecnologias**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,python,looker,sql" alt="Linguagens e Tecnologias">
+  <img src="https://skillicons.dev/icons?i=aws,git,python,lookerstudio,mysql,sqlserver" alt="Linguagens e Tecnologias">
 </p>
 
 
