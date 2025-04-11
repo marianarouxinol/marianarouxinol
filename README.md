@@ -14,7 +14,7 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 - Cloud (AWS)</b>
 - Dashboards & Storytelling (Power BI, Looker)</b>
 
-## 🛠 **Linguagens e Tecnologias**
+
 
 ## 🛠 **Linguagens e Tecnologias**
 <p align="center">
@@ -25,13 +25,13 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
 </p>
 
----
+
+
 
 ## 🎓 **Certificações**
 <p align="center">
-  <img src="./certificação.png" alt="AWS Cloud Practitioner" width="150">
-
-🔗 [Ver certificação oficial](https://www.credly.com/badges/f07efa9e-79e0-4684-b3f8-314417a66983/linked_in_profile)
+  <img src="https://github.com/marianarouxinol/marianarouxinol/raw/main/certificaçao.png" alt="AWS Cloud Practitioner" width="150">
+</p>
 
 
 </p>
