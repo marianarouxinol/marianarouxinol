@@ -19,7 +19,17 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
   <img src="https://skillicons.dev/icons?i=aws,git,python,lookerstudio,mysql,sqlserver" alt="Linguagens e Tecnologias">
 </p>
 
+## 🛠 **Linguagens e Tecnologias**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,aws,mssql,looker,powerbi" alt="Linguagens e Tecnologias">
+</p>
 
+---
+
+## 🎓 **Certificações**
+<p align="center">
+  <img src="https://images.credly.com/images/f0d5b93b-46e1-4fa6-8ae5-4fb86c099c96/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner">
+</p>
 ## 🌐 **Meus Contatos**
 
 <p align="center">
@@ -34,10 +44,23 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 </p>
 
 
-
 ## 📊 **Estatísticas do GitHub**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marianarouxinol&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marianarouxinol&theme=dracula&hide_border=true" alt="GitHub Streak">
+</p>
+
+
+## 🚀 **Linguagens Mais Usadas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianarouxinol&layout=compact&theme=dracula" alt="Linguagens mais usadas">
+</p>
+
+---
+
+## 🌱 **Gráfico de Contribuições**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianarouxinol&theme=dracula" alt="Gráfico de Contribuições">
 </p>
 
 
@@ -45,5 +68,6 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 <p align="center">
   <strong>Vamos construir juntos? 🚀😊</strong>
 </p>
+
 
  
