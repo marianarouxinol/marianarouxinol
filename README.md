@@ -22,12 +22,11 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
   <a href="https://www.linkedin.com/in/marianarouxinol/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> 
-  <a href="mariana.rouxinol@email.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" alt="E-mail">
-  </a>
+
   <a href="https://github.com/marianarouxinol">
     <img src="https://img.shields.io/badge/-Estrelas-yellow?style=for-the-badge&logo=github" alt="Github">
   </a>
+
 </p>
 
 
