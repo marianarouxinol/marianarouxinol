@@ -27,10 +27,9 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 
 
-
 ## 🎓 **Certificações**
 <p align="center">
-  <img src="https://github.com/marianarouxinol/marianarouxinol/raw/main/certificaçao.png" alt="AWS Cloud Practitioner" width="150">
+  <img src="https://raw.githubusercontent.com/marianarouxinol/marianarouxinol/refs/heads/main/certificacao.png" alt="AWS Cloud Practitioner" width="100">
 </p>
 
 
