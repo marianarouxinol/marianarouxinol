@@ -14,6 +14,10 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 - Cloud (AWS)</b>
 - Dashboards & Storytelling (Power BI, Looker)</b>
 
+## 🛠 **Linguagens e Tecnologias**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,python,looker,sql" alt="Linguagens e Tecnologias">
+</p>
 
 
 ## 🌐 **Meus Contatos**
@@ -33,21 +37,21 @@ Estou sempre explorando novas tecnologias, refinando habilidades e deixando meu 
 
 ## 📊 **Estatísticas do GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianarouxinol&show_icons=true&theme=dracula" alt="GitHub Stats">
 </p>
 
 ---
 
 ## 🚀 **Tecnologias**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula" alt="Linguagens">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianarouxinol&layout=compact&theme=dracula" alt="Linguagens">
 </p>
 
 ---
 
 ## 🏆 **Conquistas**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=darkhub" alt="Troféus">
+  <img src="https://github-profile-trophy.vercel.app/?username=marianarouxinol&theme=darkhub" alt="Troféus">
 </p>
 
 
